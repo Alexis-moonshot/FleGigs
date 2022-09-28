@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "504760499671",
+    "firebase_url": "https://flegigs-a2420.firebaseio.com",
+    "project_id": "flegigs-a2420",
+    "storage_bucket": "flegigs-a2420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504760499671:android:0e40b379f286ea04645f92",
+        "android_client_info": {
+          "package_name": "com.ahl.flegigscus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504760499671-elgjgn1s48q0mghie5tmkgsa7pu97fvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahl.flegigscus",
+            "certificate_hash": "8a8e4b3ec10009b968fba2ebd9f50724e83daf63"
+          }
+        },
+        {
+          "client_id": "504760499671-fcjs9cl50dhpdt1o2k83uhdkbm3tnb5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahl.flegigscus",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "504760499671-elbg0chqa52bmbciol0cue5g5lif59g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBteBw1re2AvpTveOAgV3-MR7vOuVE5a9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504760499671-elbg0chqa52bmbciol0cue5g5lif59g3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504760499671-ok8jj929phq3774m4n15b5mkndhv2obs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.flegigshelp.ahl.com"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504760499671:android:d029a9fa5c697769645f92",
+        "android_client_info": {
+          "package_name": "com.ahl.flegigshelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504760499671-vug2mj49v88p0597j7553o9roanpi7iq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahl.flegigshelp",
+            "certificate_hash": "24a750732911f5ea71779950e600a0b42b326581"
+          }
+        },
+        {
+          "client_id": "504760499671-3h4hfamuusbvgkdiu9br6v3rm38521gg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ahl.flegigshelp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "504760499671-elbg0chqa52bmbciol0cue5g5lif59g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBteBw1re2AvpTveOAgV3-MR7vOuVE5a9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504760499671-elbg0chqa52bmbciol0cue5g5lif59g3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "504760499671-ok8jj929phq3774m4n15b5mkndhv2obs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.flegigshelp.ahl.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

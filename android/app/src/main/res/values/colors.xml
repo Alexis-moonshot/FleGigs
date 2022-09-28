@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_bg_launch_screen">#60C3FF</color>
+    <color name="primary_dark">#000000</color>
+    <color name="colorAccent">#9495a5</color>
+</resources>
